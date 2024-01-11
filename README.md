@@ -6,8 +6,8 @@
 - [x] 1.3 Defining New Functions
 - [x] 1.4 Designing Functions
 - [x] 1.5 Control
-- [x] 1.6 Higher-Order Functions
-- [x] 1.7 Recursive Functions
+- [] 1.6 Higher-Order Functions
+- [] 1.7 Recursive Functions
 
 ## Chapter 2: Building Abstractions with Data
 - [ ] 2.1 Introduction
