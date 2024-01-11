@@ -1,13 +1,13 @@
 # Composing Programs study
 
 ## Chapter 1: Building Abstractions with Functions
-- [ ] 1.1 Getting Started
-- [ ] 1.2 Elements of Programming
-- [ ] 1.3 Defining New Functions
-- [ ] 1.4 Designing Functions
-- [ ] 1.5 Control
-- [ ] 1.6 Higher-Order Functions
-- [ ] 1.7 Recursive Functions
+- [x] 1.1 Getting Started
+- [x] 1.2 Elements of Programming
+- [x] 1.3 Defining New Functions
+- [x] 1.4 Designing Functions
+- [x] 1.5 Control
+- [x] 1.6 Higher-Order Functions
+- [x] 1.7 Recursive Functions
 
 ## Chapter 2: Building Abstractions with Data
 - [ ] 2.1 Introduction
